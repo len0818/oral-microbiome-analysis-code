@@ -116,13 +116,6 @@ python src/genus_model_benchmark.py \
 - The genus modeling script explicitly applies preprocessing within a pipeline so scaling is handled reproducibly during model training and evaluation.
 - If your column names differ from the expected defaults, update the script arguments or helper functions accordingly.
 
-## Recommended GitHub workflow
-
-1. Create a new GitHub repository.
-2. Upload this code-only package.
-3. Edit `CITATION.cff` with your real author name and repository URL.
-4. Create a GitHub release.
-5. Archive the release in Zenodo to obtain a DOI.
 
 ## License
 
