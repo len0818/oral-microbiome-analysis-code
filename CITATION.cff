@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Reproducible analysis code for the SNU oral microbiome study"
+message: "If you use this code, please cite the associated manuscript and repository release."
+type: software
+authors:
+  - family-names: "YourLastName"
+    given-names: "YourFirstName"
+repository-code: "https://github.com/your-username/your-repo-name"
+license: "MIT"
