@@ -16,8 +16,7 @@ This is a **code-only** public release.
 .
 ├── data/
 │   └── README.md
-├── docs/
-│   └── CODE_SHARING_FOR_PLOS.md
+
 ├── results/
 │   └── .gitkeep
 ├── src/
